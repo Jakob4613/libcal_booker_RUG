@@ -1,0 +1,2 @@
+Voornaam,Achternaam,Email-adres,Studentnummer,Telefoonnummer,Maandag,Dinsdag,Woensdag,Donderdag,Vrijdag,Zaterdag,Zondag
+FirstName,insertion+lastName,studentMail,studentNumber,phoneNumberWithoutTrailing0,beginBlockMonday_endBlockMonday,beginBlockTuesday_endBlockTuesday,beginBlockWednesday_endBlockWednesday,etc_etc,etc_etc,etc_etc,etc_etc
